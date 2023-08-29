@@ -1,28 +1,10 @@
 # 👋 Hey there, I'm Arun!
 
-📊 Presently, I'm thriving as a graduating business analytics master's student in the college town Iowa City, IA region.
+📊 Currently, I am pursuing a Master's degree in Business Analytics at the University of Iowa.
 
 <p>&nbsp;</p>
 
-**👀 Beyond the realm of work, I revel in various pursuits:**
-
-🍳 **Cooking:** I'm a culinary enthusiast, specializing in both Italian and Indian cuisines.
-
-📚 **Reading:** My reading palette is diverse, from AI articles to cutting-edge modeling techniques and optimization algorithms. It's a technical indulgence that fuels my expertise.
-
-⚽️🏏🎾 **Sports Enthusiast:** I'm in the game, both as a spectator and a player. Tennis, Cricket, Badminton, F1 – you name it, I'm in for the thrill!
-
-🎤📝 **Motivational Speaker & Writer:** I'm passionate about inspiring through words, both spoken and written, spreading positive vibes wherever I go.
-
-🎵🎻 **Musician at Heart:** When I'm not crunching numbers, I'm strumming strings. Check out my tracks on [Spotify](https://open.spotify.com/artist/19rjEAZB5nXXGRgLLuMbsf?si=ZY5O0N1HSlSN-PWgXoU2TQ). Violin, guitar, and more are my jam.
-
-☕ **Coffee Aficionado:** What's life without coffee? An absolute favorite that fuels my days and creativity.
-
-💼 **LinkedIn Engager:** I keep my professional network buzzing with monthly (sometimes more!) updates. It's a vital connection to my career community, though I recently dialed back due to my master's program commitments.
-
-<p>&nbsp;</p>
-
-**🌱 My journey with data:**
+## **🌱 My journey with data:**
 
 • **Iowa Case Competition 2023:** I proudly contributed to the University of Iowa team's impressive fourth-place finish in a demanding Analytics Case Competition. Our task involved analyzing demand forecast methodologies for Heineken. This experience provided valuable insights into demand forecasting strategies, teamwork dynamics, and practical problem-solving in the analytics field.
 
@@ -30,7 +12,7 @@
 
 <p>&nbsp;</p>
 
-**🏋🏻‍♀️ My leadership journey:**
+## **🏋🏻‍♀️ My leadership journey:**
 
 • **Treasurer of the Music Club at NITC (undergraduate university):** Responsible for managing the club's funds and ensuring their wise and appropriate utilization. This involved preparing an annual budget and submitting bills to the college's Finance Department. Additionally, I handled the procurement of new instruments and equipment by applying for tenders through the college.
 
@@ -38,7 +20,19 @@
 
 <p>&nbsp;</p>
 
-**🔧 Exploring the intricate nuances of Python, R, Power BI, Tableau, and SQL, aiming to leverage their advanced functionalities.**
+## **👀 Beyond the realm of work, I revel in various pursuits:**
+
+🎵 **Musician at Heart:** When I'm not crunching numbers, I'm strumming strings. Check out my tracks on [Spotify](https://open.spotify.com/artist/19rjEAZB5nXXGRgLLuMbsf?si=ZY5O0N1HSlSN-PWgXoU2TQ). Violin, guitar, and more are my jam.
+
+🍳 **Cooking:** I'm a culinary enthusiast, specializing in both Italian and Indian cuisines.
+
+⚽ **Sports Enthusiast:** I'm in the game, both as a spectator and a player. Tennis, Cricket, Badminton, F1 – you name it, I'm in for the thrill!
+
+🎤 **Motivational Speaker & Writer:** I'm passionate about inspiring through words, both spoken and written, spreading positive vibes wherever I go.
+
+☕ **Coffee Aficionado:** What's life without coffee? An absolute favorite that fuels my days and creativity.
+
+💼 **LinkedIn Engager:** I keep my professional network buzzing with monthly (sometimes more!) updates. It's a vital connection to my career community, though I recently dialed back due to my master's program commitments.
 
 <p>&nbsp;</p>
 
