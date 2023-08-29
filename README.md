@@ -18,7 +18,6 @@
 
 • **Treasurer of the Industrial and Planning Forum (IPF) at NITC:** Managed the inflow and outflow of funds, oversaw the club's bank account, and kept track of in-hand cash. My primary responsibility was maintaining accurate records of the club's expenses. Additionally, I organized the NITC Model United Nations at the Grand Hotel in Kochi in 2017 and on the NITC campus in 2018. I also collaborated with the Training & Placement Department to host various programs.
 
-<p>&nbsp;</p>
 
 ## **👀 Beyond the realm of work, I revel in various pursuits:**
 
