@@ -1,6 +1,6 @@
 # 👋 Greetings, I'm Arun!
 
-📊 Currently, I'm on the journey to complete my Master's degree in Business Analytics at the University of Iowa.
+📊 Currently, I'm on a data journey to complete my Master's degree in Business Analytics at the University of Iowa.
 <be>
 ## **🌱 Exploring the world of data:**
 
