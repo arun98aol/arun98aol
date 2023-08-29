@@ -2,7 +2,7 @@
 
 📊 Currently, I am pursuing a Master's degree in Business Analytics at the University of Iowa.
 
-<p>&nbsp;</p>
+<be>
 
 ## **🌱 My journey with data:**
 
@@ -10,7 +10,7 @@
 
 • **CFA Challenge 2022:** I took part in the recently concluded CFA Institute Research Challenge, an annual global competition that provides university students with hands-on mentoring and intensive training in financial analysis and professional ethics. While it was a challenge with no prior financial education or experience, I enjoyed every bit of the analysis and financial modeling discussions.
 
-<p>&nbsp;</p>
+<be>
 
 ## **🏋🏻‍♀️ My leadership journey:**
 
