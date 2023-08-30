@@ -6,7 +6,7 @@
 
 • **Iowa Case Competition 2023:** I'm excited to share our success in the University of Iowa team's remarkable fourth-place finish in a challenging Analytics Case Competition. Our task revolved around analyzing demand forecast methodologies for Heineken. This experience provided deep insights into demand forecasting strategies, effective teamwork, and practical problem-solving within the realm of analytics.
 
-• **CFA Challenge 2022:** Participating in the recent CFA Institute Research Challenge, a global annual competition offering hands-on mentoring and intensive training in financial analysis and professional ethics, was both a challenge and a joy. Despite having no prior financial education or experience, I relished every moment of analysis and financial modeling discussions.
+• **CFA Challenge 2022:** Participant in the recent CFA Institute Research Challenge, a global annual competition offering hands-on mentoring and intensive training in financial analysis and professional ethics, was both a challenge and a joy. Despite having no prior financial education or experience, I relished every moment of analysis and financial modeling discussions.
 <be>
 ## **🏋🏻‍♀️ Navigating leadership paths:**
 
