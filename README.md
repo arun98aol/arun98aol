@@ -1,10 +1,8 @@
-# 👋 Hey there, I'm Arun!
+## Hey, Welcome to my Github profile!
 
-## **🌟 What I’m working on:** [Updated October 24th, 2024]
+As of October 2024, I'm building an Agent 'Hope' at CareerX, Inc. Hope showcases the best Agentic AI has to offer job seekers in 2024. [Talk to Hope](https://www.careerx.app/register)
 
-I'm building an Agent 'Hope', every job seekers companion. [Talk to Hope](https://www.careerx.app/register)
-
-## **What is [CareerX](https://www.careerx.app)?**
+### **What is [CareerX](https://www.careerx.app)?**
 
 At CareerX, Inc., I’m the Founder & CTO, where we’re rethinking how people showcase their skills. Instead of boring, static resumes, we’re building a dynamic platform that focuses on "skill stories" — how people actually use their skills in real life.
 
@@ -12,7 +10,7 @@ The idea came from my own frustration with traditional career platforms. So, I d
 
 What’s even cooler? I'm a Level 3 Founder backed by Microsoft for Startups (worth up to $250K!). It’s been an amazing ride so far, blending my passion for AI and helping people tell their unique career stories in a more meaningful way.
 
-## **🛠️ My Toolkit:**
+### **🛠️ My Toolkit:**
 
 My actionable tech stack is long and ever-growing, driven by a causal relationship with my natural state of curiosity.
 
@@ -22,20 +20,20 @@ My actionable tech stack is long and ever-growing, driven by a causal relationsh
 - **Optimization & Modeling:** Pyomo, Integer Linear Programming
 
 
-## **🚀 Featured Projects:**
+### **🚀 Featured Projects:**
 
 - **[Patient Trial Match](https://github.com/arun98aol/patient-trial-match-scispacy-rag)**: Leveraging SciSpacy and RAG to match patients with clinical trials, improving accuracy and reducing processing time.
 - **[Employee Turnover Prediction](https://github.com/arun98aol/prediciting-employee-turnover)**: Built machine learning models to predict employee churn, using structured and unstructured data, achieving a 98% accuracy rate.
 - **[Optimizing Staff Scheduling](https://github.com/arun98aol/optimizing-staff-scheduling)**: Solved staffing challenges for a local restaurant using integer linear programming, improving operational efficiency.
 - **[Spotify Streaming Trends](https://github.com/arun98aol/spotify-streaming-trends)**: Visualized correlations between artist performance and streaming trends using Tableau and Billboard data.
 
-## **📈 Recent Career Highlights:**
+### **📈 Recent Career Highlights:**
 
 - **Founder & CTO at CareerX:** Led the development of AI-powered systems for skills management and talent retention, reducing data errors by 90%.
 - **Part-Time Researcher at University of Iowa:** [NSF-funded ($288K) research on People Analytics](https://tippie.uiowa.edu/news/2022/08/nsf-grant-help-tippie-faculty-study-gender-gaps-scientific-research).
 - **Student Ambassador at Tippie College of Business:** Proud to represent and support the business school as a student leader, organizing events and connecting with prospective students.
 
-## **🎸 Beyond Work:**
+### **🎸 Beyond Work:**
 
 When I'm not coding, you’ll find me exploring music, playing the violin and guitar. I also enjoy experimenting with culinary recipes and engaging in sports like tennis and F1 racing. And of course, coffee fuels my creativity and productivity!
 
