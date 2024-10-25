@@ -1,33 +1,39 @@
-# 👋 Greetings, I'm Arun!
+# 👋 Hey there, I'm Arun!
 
-📊 Currently, I'm on a data journey to complete my Master's degree in Business Analytics at the University of Iowa.
-<be>
-## **🌱 Exploring the world of data:**
+[October 24th, 2024] - 
 
-• **Iowa Case Competition 2023:** I'm excited to share our success in the University of Iowa team's remarkable fourth-place finish in a challenging Analytics Case Competition. Our task revolved around analyzing demand forecast methodologies for Heineken. This experience provided deep insights into demand forecasting strategies, effective teamwork, and practical problem-solving within the realm of analytics.
+## **🌟 What I’m working on:**
 
-• **CFA Challenge 2022:** Participant in the recent CFA Institute Research Challenge, a global annual competition offering hands-on mentoring and intensive training in financial analysis and professional ethics, was both a challenge and a joy. Despite having no prior financial education or experience, I relished every moment of analysis and financial modeling discussions.
-<be>
-## **🏋🏻‍♀️ Navigating leadership paths:**
+At CareerX, Inc., I’m the Founder & CTO, where we’re rethinking how people showcase their skills. Instead of boring, static resumes, we’re building a dynamic platform that focuses on "skill stories" — how people actually use their skills in real life.
 
-• **Treasurer of the Music Club at NITC (undergraduate university):** I had the privilege of overseeing the club's finances, ensuring their responsible allocation. This involved crafting an annual budget and managing expenses through the college's Finance Department. I also handled instrument and equipment procurement, actively participating in tender applications.
+The idea came from my own frustration with traditional career platforms. So, I decided to build a solution where AI helps connect the dots between skills and real-world applications. We use Retrieval-Augmented Generation (RAG) and semantic search to manage and validate skill data with a system of agents that talk to each other to ensure everything is on point.
 
-• **Treasurer of the Industrial and Planning Forum (IPF) at NITC:** I meticulously managed fund flows, maintained the club's bank account, and monitored cash on hand. My primary focus was maintaining accurate expenditure records. Moreover, I orchestrated the NITC Model United Nations at the Grand Hotel in Kochi in 2017 and on the NITC campus in 2018. I collaborated with the Training & Placement Department to host diverse programs.
-<be>
-## **👀 Exploring beyond the work horizon:**
+What’s even cooler? I'm a Level 3 Founder backed by Microsoft for Startups (worth up to $250K!). It’s been an amazing ride so far, blending my passion for AI and helping people tell their unique career stories in a more meaningful way.
 
-🎵 **Music Enthusiast:** Beyond numbers, I am deeply immersed in music. Listen to my creations on [Spotify](https://open.spotify.com/artist/19rjEAZB5nXXGRgLLuMbsf?si=ZY5O0N1HSlSN-PWgXoU2TQ). I find joy in playing the violin, guitar, and more.
+## **🛠️ My Toolkit:**
 
-🍳 **Culinary Journey:** A culinary aficionado, I specialize in crafting Italian and Indian cuisines.
+My actionable tech stack is long and ever growing. There is a causal relationship my natural state of curiosity. 
 
-⚽ **Sports Aficionado:** I'm engaged in various sports as both a spectator and a participant. Whether it's tennis, cricket, badminton, or F1 racing – count me in for the excitement!
+- **Programming:** Python, JavaScript, C++
+- **Data Analytics:** Pandas, PySpark, Dask, Tableau, Excel
+- **Machine Learning:** Scikit-learn, PyTorch, LangChain, Azure AI
+- **Optimization & Modeling:** Pyomo, Integer Linear Programming
 
-🎤 **Spreading Motivation:** Passionate about inspiring through spoken and written words, I'm committed to spreading positivity wherever I go.
+## **🚀 Featured Projects:**
 
-☕ **Coffee Lover:** Coffee is an essential part of my life, fueling my days and igniting my creativity.
+- **[Patient Trial Match](https://github.com/arun98aol/patient-trial-match-scispacy-rag)**: Leveraging SciSpacy and RAG to match patients with clinical trials, improving accuracy and reducing processing time.
+- **[Employee Turnover Prediction](https://github.com/arun98aol/prediciting-employee-turnover)**: Built machine learning models to predict employee churn, using structured and unstructured data, achieving a 98% accuracy rate.
+- **[Optimizing Staff Scheduling](https://github.com/arun98aol/optimizing-staff-scheduling)**: Solved staffing challenges for a local restaurant using integer linear programming, improving operational efficiency.
+- **[Spotify Streaming Trends](https://github.com/arun98aol/spotify-streaming-trends)**: Visualized correlations between artist performance and streaming trends using Tableau and Billboard data.
 
-💼 **LinkedIn Enthusiast:** I actively nurture my professional network with regular updates, keeping it vibrant and connected. While my master's program has led me to reduce my engagement recently, it remains a crucial link to my career community.
-<be>
-**📫 Feel free to connect with me on LinkedIn:** ⛓ [arunganapathy](https://www.linkedin.com/in/arunganpa24/)
+## **📈 Recent Career Highlights:**
 
-Looking forward to connecting and sharing insights! 🌟
+- **Founder & CTO at CareerX:** Led the development of AI-powered systems for skills management and talent retention, reducing data errors by 90%.
+- **Part-Time Researcher at University of Iowa:** [NSF-funded ($288K) research on People Analytics](https://tippie.uiowa.edu/news/2022/08/nsf-grant-help-tippie-faculty-study-gender-gaps-scientific-research).
+- **Student Ambassador at Tippie College of Business:** Proud to represent and support the business school as a student leader, organizing events and connecting with prospective students.
+
+## **🎸 Beyond Work:**
+
+When I'm not coding, you’ll find me exploring music, playing the violin and guitar. I also enjoy experimenting with culinary recipes and engaging in sports like tennis and F1 racing. And of course, coffee fuels my creativity and productivity!
+
+💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/arunganpa24/) or check out more of my work right here on GitHub. Looking forward to learning, building, and innovating together!
