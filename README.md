@@ -17,10 +17,12 @@ What’s even cooler? I'm a Level 3 Founder backed by Microsoft for Startups (wo
 My actionable tech stack is long and ever-growing, driven by a causal relationship with my natural state of curiosity.
 
 - **Programming:** Python, JavaScript, C++
-- **Data Analytics:** Pandas, PySpark, Dask, Tableau, Excel
-- **Machine Learning:** Scikit-learn, PyTorch, LangChain, Azure AI
-- **Optimization & Modeling:** Pyomo, Integer Linear Programming
+- **Data Analytics:** Pandas, PySpark, Dask, Tableau, Power BI
+- **Machine Learning & AI:** Scikit-learn, PyTorch (limited), Azure AI, RAG, LangChain, LlamaIndex, SciSpacy
+- **Cloud & Infrastructure:** Microsoft Azure, Azure Blob Storage, CosmosDB
+- **Optimization & Modeling:** Pyomo, Gurobi, Gekko
 
+For more detailed insights into my projects, tech stack, and experience, please send me a request and I will share my CV.
 
 ### **🚀 Featured Projects:**
 
