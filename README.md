@@ -1,4 +1,4 @@
-## Hey, Welcome to my Github profile!
+## Welcome to my Github profile! 🤓
 
 As of October 2024, I'm building an Agent 'Hope' at CareerX, Inc. Hope showcases the best Agentic AI has to offer job seekers in 2024. 
 
